@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software engineer looking to make this world a better place. Please take a moment to browse my profile and if you get a chance, check out my [LinkedIn](https://www.linkedin.com/in/jackmt9/) and [Medium](https://medium.com/@jackmt9) accounts. If you have any questions about any of my repos, don't hesitate to reach out!
+I'm a software engineer looking to make this world a better place. Please take a moment to browse my profile and if you get a chance, check out my [LinkedIn](https://www.linkedin.com/in/jackmt9/) and [Medium](https://medium.com/@jackmt9) accounts. If you have questions about any of my repos, don't hesitate to reach out!
 
 <!--
 **Jackmt9/jackmt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
