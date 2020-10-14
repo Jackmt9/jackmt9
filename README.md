@@ -1,12 +1,14 @@
 ### Hi there, I'm Jack!
 
 <a href="https://www.linkedin.com/in/jackmt9/">
-    <img align="left" width="20px" src="./images/linkedinButton" alt="LinkedIn" />
+    <img align="left" width="20px" src="images/linkedinButton.png" alt="LinkedIn" />
 </a>
 
 <a href="https://medium.com/@jackmt9">
-    <img align="left" width="20px" src="./images/mediumButton" alt="Medium" />
+    <img align="left" width="20px" src="images/mediumButton.png" alt="Medium" />
 </a>
+
+<br/>
 
 I'm a recent graduate currently seeking job opportunities. I'm always looking to learn and collaborate.
 
@@ -25,6 +27,7 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackmt9" alt="Jack's Github stats" />
 </a>
 
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmt9&layout=compact" alt="Language Division" />
 </a>
