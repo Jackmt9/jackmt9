@@ -1,4 +1,4 @@
-### Hi there, I'm Jack!
+# Hi there, I'm Jack!
 
 <br/>
 Thanks for visiting my Github Profile!  
@@ -17,16 +17,6 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a background in Mathematics
 
-## Media:
-
-<a href="https://www.linkedin.com/in/jackmt9/">
-    <img align="left" width="20px" src="images/linkedinButton.png" alt="LinkedIn" />
-</a>
-
-<a href="https://medium.com/@jackmt9">
-    <img align="left" width="20px" src="images/mediumButton.png" alt="Medium" />
-</a>
-
 <br/>
 
 ## Stats:
@@ -36,6 +26,16 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 </a>
 
 <br/>
+
+## Media:
+
+<a href="https://www.linkedin.com/in/jackmt9/">
+    <img align="left" width="20px" src="images/linkedinButton.png" alt="LinkedIn" />
+</a>
+
+<a href="https://medium.com/@jackmt9">
+    <img align="left" width="20px" src="images/mediumButton.png" alt="Medium" />
+</a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmt9&layout=compact" alt="Language Division" />
