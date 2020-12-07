@@ -27,6 +27,18 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 
 <br/>
 
+## Badges:
+
+🏅 Twilio Hackathon Participant Badge 🏅 (Awarded for participating in the Twilio x DEV Hackathon April 2020)
+<a href="https://dev.to/badge/twilio-hackathon-participant"> 
+    <img src="images/twilio"/>
+</a>
+
+🏅 Hacktoberfest 2020 Badge 🏅 (Awarded for successful completion of the 2020 Hacktoberfest challenge.)
+<a href="https://dev.to/badge/hacktoberfest-2020"> 
+    <img src="images/hacktoberfest"/>
+</a>
+
 ## Media:
 
 <a href="https://www.linkedin.com/in/jackmt9/">
