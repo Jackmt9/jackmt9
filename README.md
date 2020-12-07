@@ -31,12 +31,12 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 
 🏅 Twilio Hackathon Participant Badge 🏅 (Awarded for participating in the Twilio x DEV Hackathon April 2020)
 <a href="https://dev.to/badge/twilio-hackathon-participant"> 
-    <img src="images/twilio"/>
+    <img src="images/twilio.png"/>
 </a>
 
 🏅 Hacktoberfest 2020 Badge 🏅 (Awarded for successful completion of the 2020 Hacktoberfest challenge.)
 <a href="https://dev.to/badge/hacktoberfest-2020"> 
-    <img src="images/hacktoberfest"/>
+    <img src="images/hacktoberfest.png"/>
 </a>
 
 ## Media:
