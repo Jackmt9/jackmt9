@@ -37,6 +37,9 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
     <img align="left" width="20px" src="images/mediumButton.png" alt="Medium" />
 </a>
 
+<a href="https://dev.to/jackmt9">
+    <img align="left" width="20px" src="images/devButton.png" alt="Dev" />
+</a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmt9&layout=compact" alt="Language Division" />
 </a> -->
