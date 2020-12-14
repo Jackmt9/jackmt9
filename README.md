@@ -22,7 +22,7 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 ## Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackmt9" alt="Jack's Github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackmt9&theme=dark" alt="Jack's Github stats" />
 </a>
 
 <br/>
