@@ -53,6 +53,6 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
     <img align="left" width="20px" src="images/devButton.png" alt="Dev" />
 </a>
 
-<a href="https://leetcode.com/Jackmt9/">
+<!-- <a href="https://leetcode.com/Jackmt9/">
     <img align="left" width="20px" src="images/leetcode.png" alt="Leetcode" />
-</a>
+</a> -->
