@@ -54,7 +54,7 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 </a>
 
 <a href="https://projecteuler.net/profile/jackmt9.png">
-    <img align="left" width="30px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
+    <img align="left" height="30px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
 </a>
 
 <!-- <a href="https://leetcode.com/Jackmt9/">
