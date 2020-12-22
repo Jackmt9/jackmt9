@@ -39,18 +39,22 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
     <img width='100px' src="images/hacktoberfest.png"/>
 </a>
 
-## Media:
+## Other:
 
 <a href="https://www.linkedin.com/in/jackmt9/">
-    <img align="left" width="20px" src="images/linkedinButton.png" alt="LinkedIn" />
+    <img align="left" width="30px" src="images/linkedinButton.png" alt="LinkedIn" />
 </a>
 
 <a href="https://medium.com/@jackmt9">
-    <img align="left" width="20px" src="images/mediumButton.png" alt="Medium" />
+    <img align="left" width="30px" src="images/mediumButton.png" alt="Medium" />
 </a>
 
 <a href="https://dev.to/jackmt9">
-    <img align="left" width="20px" src="images/devButton.png" alt="Dev" />
+    <img align="left" width="30px" src="images/devButton.png" alt="Dev" />
+</a>
+
+<a href="https://projecteuler.net/profile/jackmt9.png">
+    <img align="left" width="30px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
 </a>
 
 <!-- <a href="https://leetcode.com/Jackmt9/">
