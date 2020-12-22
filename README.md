@@ -39,7 +39,7 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
     <img width='100px' src="images/hacktoberfest.png"/>
 </a>
 
-## Other:
+## Media:
 
 <a href="https://www.linkedin.com/in/jackmt9/">
     <img align="left" width="30px" src="images/linkedinButton.png" alt="LinkedIn" />
@@ -52,11 +52,15 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 <a href="https://dev.to/jackmt9">
     <img align="left" width="30px" src="images/devButton.png" alt="Dev" />
 </a>
+
 <br/>
-<a href="https://projecteuler.net/profile/jackmt9.png">
-    <img align="left" height="60px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
+
+## Algorithm Practice:
+<a href="https://leetcode.com/Jackmt9/">
+    <img align="left" width="30px" src="images/leetcode.png" alt="Leetcode" />
 </a>
 
-<!-- <a href="https://leetcode.com/Jackmt9/">
-    <img align="left" width="20px" src="images/leetcode.png" alt="Leetcode" />
-</a> -->
+<a href="https://projecteuler.net/profile/jackmt9.png">
+    <img align="left" height="30px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
+</a>
+
