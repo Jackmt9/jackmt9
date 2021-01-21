@@ -35,12 +35,11 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 </a>
 
 🏅 Hacktoberfest 2020 Badge 🏅  
-<br/>
 <a href="https://dev.to/badge/hacktoberfest-2020"> 
     <img width='100px' src="images/hacktoberfest.png"/>
 </a>
 
-🏅 Participant — DigitalOcean App Platform Hackathon on DEV Badge 🏅
+🏅 Participant — DigitalOcean App Platform Hackathon on DEV Badge 🏅  
 <a href="https://dev.to/badge/participant-e2-80-94-digitalocean-app-platform-hackathon-on-dev"> 
     <img width='100px' src="https://res.cloudinary.com/practicaldev/image/fetch/s--GeViEUBY--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/92/Image_from_iOS__3_.png"/>
 </a>
