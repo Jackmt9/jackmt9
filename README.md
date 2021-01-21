@@ -35,6 +35,7 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 </a>
 
 🏅 Hacktoberfest 2020 Badge 🏅  
+<br/>
 <a href="https://dev.to/badge/hacktoberfest-2020"> 
     <img width='100px' src="images/hacktoberfest.png"/>
 </a>
