@@ -60,12 +60,12 @@ I'm a recent graduate currently seeking job opportunities. I'm always looking to
 
 <br/>
 
-## Algorithm Practice:
-<!-- <a href="https://leetcode.com/Jackmt9/">
+<!-- ## Algorithm Practice:
+<a href="https://leetcode.com/Jackmt9/">
     <img align="left" width="30px" src="images/leetcode.png" alt="Leetcode" />
-</a> -->
+</a>
 
 <a href="https://projecteuler.net/profile/jackmt9.png">
     <img align="left" height="60px" src="https://projecteuler.net/profile/jackmt9.png" alt="Euler" />
-</a>
+</a> -->
 
