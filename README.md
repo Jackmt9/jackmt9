@@ -3,20 +3,6 @@
 <br/>
 Thanks for visiting my Github Profile!  
 
-I'm a recent graduate currently seeking job opportunities. I'm always looking to learn and collaborate.
-
-<br/>
-
-## A little bit about me:
-
-- 🔭 I’m currently working on an [Acrostic Mnemonic Generator](https://github.com/Jackmt9/Mnemonic)
-- 🌱 I’m currently learning interview algorithms
-- 💬 Ask me about anything!
-- 🤔 I’m looking for an environment that is conducive to learning and growing
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have a background in Mathematics
-
 <br/>
 
 ## Stats:
