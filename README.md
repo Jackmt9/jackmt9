@@ -1,9 +1,6 @@
 # Hi there, I'm Jack!
 
 <br/>
-Thanks for visiting my Github Profile!  
-
-<br/>
 
 ## Stats:
 
